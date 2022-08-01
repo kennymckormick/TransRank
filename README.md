@@ -8,3 +8,5 @@ Besides, if you are interested to check our implementation now, you can refer to
 ```bash
 bash tools/dist_train.sh configs/transrank_ucf_r3d_rotate_mlp_200e.py 8
 ```
+
+Also, please send me an email to me or open a new issue under this repo if you have any questions regarding to the implementation. My email is dhd.efz@gmail.com. 
